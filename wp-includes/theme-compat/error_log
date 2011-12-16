@@ -1,0 +1,5 @@
+[04-Dec-2011 05:56:53] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/theme-compat/footer.php on line 10
+[04-Dec-2011 05:57:11] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/theme-compat/header.php on line 10
+[04-Dec-2011 05:57:20] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/theme-compat/sidebar.php on line 10
+[04-Dec-2011 05:59:50] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/theme-compat/comments.php on line 10
+[04-Dec-2011 06:00:49] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/theme-compat/comments-popup.php on line 10

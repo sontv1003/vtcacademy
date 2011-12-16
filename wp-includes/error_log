@@ -1,0 +1,46 @@
+[04-Dec-2011 05:11:14] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/rss.php on line 18
+[04-Dec-2011 05:11:38] PHP Fatal error:  Call to undefined function is_admin() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/vars.php on line 16
+[04-Dec-2011 05:11:59] PHP Fatal error:  Call to undefined function add_action() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/kses.php on line 1360
+[04-Dec-2011 05:12:14] PHP Fatal error:  Call to undefined function add_action() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/post.php on line 152
+[04-Dec-2011 05:12:16] PHP Fatal error:  Call to undefined function add_filter() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/user.php on line 72
+[04-Dec-2011 05:12:31] PHP Fatal error:  Call to undefined function add_action() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/theme.php on line 1169
+[04-Dec-2011 05:12:38] PHP Fatal error:  Call to undefined function add_shortcode() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/media.php on line 703
+[04-Dec-2011 05:13:01] PHP Fatal error:  Call to undefined function is_main_site() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/update.php on line 346
+[04-Dec-2011 05:14:30] PHP Fatal error:  Call to undefined function add_action() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/taxonomy.php on line 102
+[04-Dec-2011 05:14:57] PHP Fatal error:  Call to undefined function feed_content_type() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/feed-rdf.php on line 8
+[04-Dec-2011 05:15:01] PHP Fatal error:  Call to undefined function feed_content_type() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/feed-rss.php on line 8
+[04-Dec-2011 05:15:13] PHP Fatal error:  Call to undefined function feed_content_type() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/feed-atom.php on line 8
+[04-Dec-2011 05:15:17] PHP Fatal error:  Call to undefined function add_action() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/admin-bar.php on line 39
+[04-Dec-2011 05:15:20] PHP Fatal error:  Call to undefined function add_action() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/canonical.php on line 431
+[04-Dec-2011 05:15:22] PHP Fatal error:  Call to undefined function feed_content_type() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/feed-rss2.php on line 8
+[04-Dec-2011 05:15:53] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/class-feed.php on line 4
+[04-Dec-2011 05:15:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/class-feed.php on line 4
+[04-Dec-2011 05:16:12] PHP Fatal error:  Call to undefined function add_filter() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/shortcodes.php on line 296
+[04-Dec-2011 05:17:29] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/ms-settings.php on line 18
+[04-Dec-2011 05:17:29] PHP Warning:  require(ABSPATHWPINC/ms-load.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/ms-settings.php on line 18
+[04-Dec-2011 05:17:29] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/ms-settings.php on line 18
+[04-Dec-2011 05:17:45] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/class-snoopy.php on line 6
+[04-Dec-2011 05:17:46] PHP Fatal error:  Call to undefined function add_action() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/ms-functions.php on line 1918
+[04-Dec-2011 05:17:56] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/registration.php on line 7
+[04-Dec-2011 05:18:09] PHP Fatal error:  Class 'Walker' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/post-template.php on line 970
+[04-Dec-2011 05:18:26] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/script-loader.php on line 25
+[04-Dec-2011 05:18:26] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/script-loader.php on line 25
+[04-Dec-2011 05:18:26] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/script-loader.php on line 25
+[04-Dec-2011 05:18:34] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/rss-functions.php on line 8
+[04-Dec-2011 05:18:38] PHP Fatal error:  Call to undefined function is_robots() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/template-loader.php on line 10
+[04-Dec-2011 05:18:40] PHP Fatal error:  Class 'WP_Widget' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/default-widgets.php on line 14
+[04-Dec-2011 05:18:57] PHP Fatal error:  Call to undefined function add_action() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/author-template.php on line 399
+[04-Dec-2011 05:19:09] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/class.wp-styles.php on line 19
+[04-Dec-2011 05:19:28] PHP Fatal error:  Call to undefined function add_filter() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/default-filters.php on line 17
+[04-Dec-2011 05:19:47] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/class.wp-scripts.php on line 19
+[04-Dec-2011 05:19:52] PHP Fatal error:  Call to undefined function add_action() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/general-template.php on line 1285
+[04-Dec-2011 05:19:59] PHP Fatal error:  Class 'Walker' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/comment-template.php on line 1218
+[04-Dec-2011 05:20:18] PHP Fatal error:  Class 'Walker' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/category-template.php on line 773
+[04-Dec-2011 05:20:21] PHP Fatal error:  Class 'Walker' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/nav-menu-template.php on line 17
+[04-Dec-2011 05:20:28] PHP Fatal error:  Call to undefined function feed_content_type() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/feed-atom-comments.php on line 8
+[04-Dec-2011 05:20:35] PHP Fatal error:  Call to undefined function feed_content_type() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/feed-rss2-comments.php on line 8
+[04-Dec-2011 05:20:37] PHP Fatal error:  Call to undefined function add_filter() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/ms-default-filters.php on line 17
+[04-Dec-2011 05:20:52] PHP Fatal error:  Call to undefined function add_action() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/ms-default-constants.php on line 138
+[04-Dec-2011 05:21:16] PHP Fatal error:  Class 'IXR_Server' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/class-wp-xmlrpc-server.php on line 22
+[04-Dec-2011 05:21:27] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/registration-functions.php on line 7
+[04-Dec-2011 05:21:32] PHP Fatal error:  Class 'IXR_Client' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/class-wp-http-ixr-client.php on line 9
