@@ -1,0 +1,2 @@
+[04-Dec-2011 04:31:14] PHP Fatal error:  Call to undefined function get_bloginfo() in /home/d2t/public_html/demo.vtcacademy.com/wp-content/plugins/pierres-wordspew/js.php on line 3
+[04-Dec-2011 04:37:55] PHP Fatal error:  Call to undefined function TransGuil() in /home/d2t/public_html/demo.vtcacademy.com/wp-content/plugins/pierres-wordspew/js_admin.php on line 6

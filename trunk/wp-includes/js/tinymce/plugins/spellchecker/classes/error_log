@@ -1,0 +1,4 @@
+[04-Dec-2011 08:33:16] PHP Fatal error:  Class 'SpellChecker' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/js/tinymce/plugins/spellchecker/classes/GoogleSpell.php on line 10
+[04-Dec-2011 08:36:19] PHP Fatal error:  Class 'SpellChecker' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/js/tinymce/plugins/spellchecker/classes/PSpell.php on line 10
+[04-Dec-2011 08:38:10] PHP Fatal error:  Class 'SpellChecker' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/js/tinymce/plugins/spellchecker/classes/PSpellShell.php on line 10
+[04-Dec-2011 08:45:23] PHP Fatal error:  Class 'SpellChecker' not found in /home/d2t/public_html/demo.vtcacademy.com/wp-includes/js/tinymce/plugins/spellchecker/classes/EnchantSpell.php on line 12
