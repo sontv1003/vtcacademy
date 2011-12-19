@@ -2518,6 +2518,7 @@ strong.header
 /*	padding: 10px 15px 10px 15px;*/
 	overflow: hidden;
 	width:130px;
+        height: 40px;
 	text-align: center;
 }
 
