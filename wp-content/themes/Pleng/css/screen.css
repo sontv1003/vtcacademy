@@ -2305,11 +2305,6 @@ strong.header
 	-moz-box-shadow: 0 1px 5px #ccc;
  	-webkit-box-shadow: 0 1px 5px #ccc;
  	box-shadow: 0px 1px 5px #ccc;
-
-
-
-
-
 }
 
 .tagline h2
@@ -2519,7 +2514,8 @@ strong.header
 	position: absolute;
 	background: transparent url('../images/000_80.png') repeat;
 	bottom: 0px;
-	padding: 20px 15px 20px 15px;
+	padding: 7px 10px 7px 10px;
+/*	padding: 10px 15px 10px 15px;*/
 	overflow: hidden;
 	width:130px;
 	text-align: center;
@@ -2528,7 +2524,7 @@ strong.header
 .kwicks_title h6
 {
 	color: #fff;
-	font-size: 14px;
+	font-size: 13px;
 }
 
 .kwicks_title_large h4
@@ -2542,9 +2538,9 @@ strong.header
 	position: absolute;
 	background: transparent url('../images/000_80.png') repeat;
 	bottom: 0px;
-	padding: 20px 15px 20px 15px;
+	padding: 3px 15px 3px 15px;
+/*	padding: 20px 15px 20px 15px;*/
 	display: none;
-        height: 20px;
 }
 
 /*
