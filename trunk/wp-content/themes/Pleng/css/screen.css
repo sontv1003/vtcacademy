@@ -2675,6 +2675,7 @@ strong.header
 {
     width: 450px;
     float: left;
+    margin-bottom: 50px;
 }
 
 .template_lienhe
@@ -2687,3 +2688,9 @@ strong.header
 .template_shoutbox li { display:block;}
 
 .template_lienhe li{ display:block;}
+
+.template_contact
+{
+    width: 600px;
+    margin-top: 10px;
+}

@@ -75,7 +75,10 @@ if(!isset($hide_header) OR !$hide_header)
 				<div class="inner_wrapper">
                                     <div class="template_shoutbox">
 <?php dynamic_sidebar('Chatbox'); ?>
-                                        <?php    dynamic_sidebar('Contact Sidebar');?>
+
+
+                                        
+                                       
                                     </div>
                                     <div class="template_lienhe">
                                   <?php dynamic_sidebar('Blog Sidebar'); ?>
